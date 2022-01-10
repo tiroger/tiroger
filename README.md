@@ -1,3 +1,5 @@
+![alt text](https://www.efprocycling.com/wp-content/uploads/2019/01/2-1.gif)
+
 - 👋 Hi, I’m @tiroger
 - 👀 I'm a Neuroscientist, Machine Learning enthusiast and avid cyclist. I care about things like statistical significance and reproducibility. I am no graphic artist, but I like to draw stuff, make pretty graphs and presentations, and mess with colors and line widths.
 - 🌱 Learning is what drives me — I believe that there is always room for improvement, especially with regards to my own abilities, and I constantly seek to sharpen my skills.
